@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+ul{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    font-size: x-large;
+    background-color: aqua;
+}
+#ex1{
+    height: 300px;
+    width: auto;
+    border: 7px double;
+}
+    </style>
+</head>
+<body>
+    <header> 
+        <nav>
+            <ul>
+                <li>home</li>
+                <li>skill</li>
+                <li>education</li>
+                <li>about me</li>
+            </ul>
+        </nav>
+    </header>
+    <section id="ex1">
+        <div >
+        <h3>hi there,</h3>
+        <p>i'm umar</p>
+        <img src="./image.png"alt=""height="200px"width="200px"
+        </div>
+    </section>
+</body>
+</html>
